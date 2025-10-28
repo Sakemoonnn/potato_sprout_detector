@@ -13,9 +13,7 @@ Python 3.9 , TensorFlow 2.10 , OpenCV, NumPy, Roboflow, Ngrok API, Line Bot
 
 
 
-!\[\[../media/potato-1.png]]
+![image](../media/potato-1.png)
 
-!\[\[../media/potato\_LineBot.jpg]]
-
-
+![image](../media/potato_LineBot.jpg)
 
